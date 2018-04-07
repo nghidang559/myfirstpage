@@ -11,7 +11,7 @@
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
   color: white;
-  background-color: #7D3C98;
+  background-color: #AD1457;
   text-shadow: 2px 2px 2px #000;
   border-radius: 10px;
 }
@@ -45,15 +45,14 @@
 
 .item h2 {
   font-family: 'Sedgwick Ave Display', cursive;
-  font-size: 5em;
-  color: #CF1717;
+  font-size: 6em;
+  color: #AD1457;
 }
 
 .item h3 {
   font-family: 'Play', sans-serif;
   font-size: 3em;
-  color: #E68100;
-
+  color: white;
 }
 
 .profitgrowth-bg {
@@ -66,12 +65,12 @@
 }
 
 .page-2 {
-  background: linear-gradient(to right,#CF1717,orange,#E68100,#6B8E23);
+  background: linear-gradient(to right,#263238,#CF1717,#AD1457,#E68100,#388E3C);
   padding: 1em;
 }
 
 .page-3 {
-  background: linear-gradient(to top,#1B4F72,violet,forestgreen);
+  background: linear-gradient(to top,#17202A,#AD1457,#388E3C);
   padding: 1em;
 }
 
@@ -98,7 +97,7 @@
 
 @media (min-width: 675px) {
   .item h3 {
-    color: indigo;
+    color: white;
   }
   .row row-space {
     display: flex;
