@@ -84,13 +84,13 @@
   padding-bottom: 2em;
 }
 
-.social-icons > a {
-  font-size: 2em;
+.social-icons>a {
+  font-size: 3em;
   height: 30px;
   padding-left: 10px;
 }
 
-.fa {
+.fa: hover {
   color: white;
 }
 
